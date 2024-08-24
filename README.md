@@ -1,4 +1,3 @@
-```markdown
 # Telegram Echo Bot
 
 This is a simple Telegram bot that automatically responds with "Hello" when it receives a message with the text "Hello", "hello", "helo", or "Helo". The bot is built using the [Pyrogram](https://docs.pyrogram.org/) library.
