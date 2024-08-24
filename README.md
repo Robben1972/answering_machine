@@ -15,7 +15,7 @@ Before running the bot, you need to have the following:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/telegram-echo-bot.git
+   git clone git@github.com:Robben1972/answering_machine.git
    cd repo-name
    ```
 
